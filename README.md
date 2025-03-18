@@ -14,6 +14,7 @@ Close with Ctrl+F4 or the window's "X" button.
 
 Hope you enjoy it!
 
+---------------------------------------------------------------------------------
 
 Space Simon, programado por Alejandro Chimera, invierno de 2024 (hemisferio sur).
 
